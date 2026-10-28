@@ -1,0 +1,202 @@
+﻿Diagnose log at 2026-10-13T05:19:21Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.0+3c28096588f549cb46f36b552390514356830abe
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\SAURAV_KAI
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=SAURAV-KAI
+GIT_TRACE2_PARENT_SID=ce989ab4-f3aa-47ee-a1bb-5dd69a9e2968
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\SAURAV_KAI\OneDrive
+USERNAME=SAURAV_KAI
+BUNDLED_DEBUGPY_PATH=c:\Users\SAURAV_KAI\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy
+TMP=C:\Users\SAURAV~1\AppData\Local\Temp
+HOME=C:\Users\SAURAV_KAI
+PROCESSOR_REVISION=9a03
+PYDEVD_DISABLE_FILE_VALIDATION=1
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+GIT_ASKPASS=c:\Users\SAURAV_KAI\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass.sh
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\SAURAV~1\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\SAURAV_KAI\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+COPILOT_DEBUG_NONCE=fce59f7e91a4ae26f7d4765383466c25
+GIT_EDITOR=:
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+COLORTERM=truecolor
+PYTHONSTARTUP=c:\Users\SAURAV_KAI\AppData\Roaming\Code\User\workspaceStorage\946365e3102db9631e63fbc905401eae\ms-python.python\pythonrc.py
+USERDOMAIN=SAURAV-KAI
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\SAURAV_KAI\bin;c:\Users\SAURAV_KAI\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\SAURAV_KAI\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\MinGW\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\CMake\bin;C:\Program Files\Arduino PLC IDE Tools\;C:\Program Files\WSL\;C:\\Users\\SAURAV_KAI\\AppData\\Local\\Blackbox\\bin;C:\Users\SAURAV_KAI\.local\bin;c:\Users\SAURAV_KAI\AppData\Local\Programs\cursor\resources\app\codeBin;C:\Users\SAURAV_KAI\AppData\Local\Programs\Python\Launcher\;C:\Users\SAURAV_KAI\Downloads\MICROSOFT DOWNLOAD\ANACONDA;C:\Users\SAURAV_KAI\Downloads\MICROSOFT DOWNLOAD\ANACONDA\Library\mingw-w64\bin;C:\Users\SAURAV_KAI\Downloads\MICROSOFT DOWNLOAD\ANACONDA\Library\usr\bin;C:\Users\SAURAV_KAI\Downloads\MICROSOFT DOWNLOAD\ANACONDA\Library\bin;C:\Users\SAURAV_KAI\Downloads\MICROSOFT DOWNLOAD\ANACONDA\Scripts;C:\Users\SAURAV_KAI\AppData\Local\Microsoft\WindowsApps;C:\Users\SAURAV_KAI\Downloads\MICROSOFT DOWNLOAD\VS CODE\Microsoft VS Code\bin;C:\Users\SAURAV_KAI\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\SAURAV_KAI\AppData\Local\Programs\mongosh\;C:\Users\SAURAV_KAI\AppData\Local\Programs\Antigravity\bin;C:\Users\SAURAV_KAI\AppData\Local\Programs\Antigravity IDE\bin;c:\Users\SAURAV_KAI\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\scripts\noConfigScripts
+AI_AGENT=github_copilot_vscode_agent
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+TMPDIR=C:\Users\SAURAV~1\AppData\Local\Temp
+COPILOT_AGENT=1
+TERM_PROGRAM_VERSION=1.125.0
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\SAURAV_KAI\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass-main.js
+PSModulePath=C:\Users\SAURAV_KAI\OneDrive\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=16
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+EFC_14720_1592913036=1
+GIT_MERGE_AUTOEDIT=no
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-aebf799eac-sock
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA84AktHQkwkK1pmwl7eOv3gQAAAACAAAAAAAQZgAAAAEAACAAAACxATEVRYA5bQI5bxS/XaaJAjwg8m2klfxIzxG4j+E7awAAAAAOgAAAAAIAACAAAAB72PMoAq6GuKPtKz/Ov8+BQS3jLUfx4NoWec7qlFkW52AAAAAL6jHTusHCr7zggcmsHoVxUNNUu386XMHIRI5eg8sBYXEqnnkNBJeAcEUnSVgI4kQnD+oX968s88yCVDtYtBNjak99fwgqPCvYbCPj6AJsynQbuBx+zqBgW4RGFFrk3P5AAAAAeM98J2I1LsN8uroLSFHdvX/0lyYylxjhIlyNPj9iYtNFNqsPVuwUhwfuD1uLHZVrDQJxUVDkgWH7kPgbr+vqbg==
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+GIT_PAGER=cat
+ProgramFiles=C:\Program Files (x86)
+VSCODE_DEBUGPY_ADAPTER_ENDPOINTS=c:\Users\SAURAV_KAI\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\.noConfigDebugAdapterEndpoints\endpoint-0bd315bcaeefbe86.txt
+VSCODE_GIT_ASKPASS_NODE=C:\Users\SAURAV_KAI\Downloads\MICROSOFT DOWNLOAD\VS CODE\Microsoft VS Code\Code.exe
+NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\
+SystemRoot=C:\WINDOWS
+SESSIONNAME=Console
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+EFC_14720_4126798990=1
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\SAURAV-KAI
+USERPROFILE=C:\Users\SAURAV_KAI
+CommonProgramW6432=C:\Program Files\Common Files
+USERDOMAIN_ROAMINGPROFILE=SAURAV-KAI
+APPDATA=C:\Users\SAURAV_KAI\AppData\Roaming
+HOMEDRIVE=C:
+NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_47052_JGEMZPFYDUXKHZKG
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+LANG=en_US.UTF-8
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\SAURAV_KAI\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\SAURAV_KAI\AppData\Local\Temp\1a2440baab92bcb3852c6bf4'... OK
+Reading from temporary file 'C:\Users\SAURAV_KAI\AppData\Local\Temp\1a2440baab92bcb3852c6bf4'... OK
+Deleting temporary file 'C:\Users\SAURAV_KAI\AppData\Local\Temp\1a2440baab92bcb3852c6bf4'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\SAURAV_KAI
+UserDataDirectoryPath: C:\Users\SAURAV_KAI\.gcm
+GetCurrentDirectory(): D:\ai interview\major\major_project-main
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:51504/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.47.1.windows.1'
+Locating current repository...Git repository at 'D:/ai interview/major/major_project-main/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/SAURAV_KAI/.gitconfig	user.name=saurav
+file:C:/Users/SAURAV_KAI/.gitconfig	user.email=srk85803@gamil.com
+file:C:/Users/SAURAV_KAI/.gitconfig	safe.directory=E:/Secure-Data-Vault-share
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/saurbwkowi/sauravkai_interview.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\SAURAV_KAI\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\SAURAV_KAI\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
